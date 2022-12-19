@@ -1,0 +1,15 @@
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\obj\Debug\net6.0\SufilkaFinal.csproj.AssemblyReference.cache
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\obj\Debug\net6.0\SufilkaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\obj\Debug\net6.0\SufilkaFinal.AssemblyInfoInputs.cache
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\obj\Debug\net6.0\SufilkaFinal.AssemblyInfo.cs
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\obj\Debug\net6.0\SufilkaFinal.csproj.CoreCompileInputs.cache
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\bin\Debug\net6.0\SufilkaFinal.exe
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\bin\Debug\net6.0\SufilkaFinal.deps.json
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\bin\Debug\net6.0\SufilkaFinal.runtimeconfig.json
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\bin\Debug\net6.0\SufilkaFinal.dll
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\bin\Debug\net6.0\SufilkaFinal.pdb
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\obj\Debug\net6.0\SufilkaFinal.dll
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\obj\Debug\net6.0\refint\SufilkaFinal.dll
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\obj\Debug\net6.0\SufilkaFinal.pdb
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\obj\Debug\net6.0\SufilkaFinal.genruntimeconfig.cache
+C:\Users\23sufilka1287\source\repos\SufilkaFinal\SufilkaFinal\obj\Debug\net6.0\ref\SufilkaFinal.dll
